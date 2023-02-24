@@ -23,14 +23,14 @@ describe("Job", () => {
 	// Prepare data for testing
 	const userTestData = {
 		"password":"Test@123",
-		"email":"maitraysuthar@test12345.com"
+		"email":"test1234@test.com"
 	};
 
 	// Prepare data for testing
 	const testData = {
 		"title":"testing job",
 		"description":"testing job desc",
-		"isbn":"3214htrff4"
+		"company":"test"
 	};
 
 	/*

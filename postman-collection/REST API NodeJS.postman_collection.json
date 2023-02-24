@@ -228,8 +228,8 @@
 									"type": "text"
 								},
 								{
-									"key": "isbn",
-									"value": "3214htrff4",
+									"key": "company",
+									"value": "test",
 									"type": "text"
 								}
 							]
