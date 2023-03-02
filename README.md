@@ -34,7 +34,7 @@ This project will run on **NodeJs** using **MongoDB** as database.
 1.  Clone the project from github. Change "myproject" to your project name.
 
 ```bash
-git clone https://github.com/maitraysuthar/rest-api-nodejs-mongodb.git ./myproject
+git clone https://github.com/maitraysuthar/rest-api-nodejs-with-mongodb.git ./myproject
 ```
 
 ### Using manual download ZIP
